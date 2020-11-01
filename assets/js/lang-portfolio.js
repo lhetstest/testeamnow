@@ -6,16 +6,20 @@ var arrNewLang = {
     "en": "About Us",
   },
   "lng-n02": {
-    "ru": "НАШИ УСЛУГИ И ПРЕДЛОЖЕНИЯ",
-    "ua": "НАШІ ПОСЛУГИ ТА ПРОПОЗИЦІЇ",
-    "en": "OUR SERVICES",
+    "ru": "Сервисы",
+    "ua": "Сервіси",
+    "en": "Services",
   },
   "lng-n03": {
     "ru": "Портфолио",
     "ua": "Портфоліо",
     "en": "Portfolio",
   },
-
+    "lng-n04": {
+    "ru": "Команда",
+    "ua": "Команда",
+    "en": "Team",
+  },
   "lng-n05": {
     "ru": "Контакты",
     "ua": "Контакти",
@@ -27,9 +31,9 @@ var arrNewLang = {
     "en": '<img src="assets/img/flag/_en.png">',
   },
    "lng-i01": {
-    "ru": "Украина<br>Киев <br><br><span>Телефон:</span> +380 (68) 788-27-22<br><span>Почта:</span> workIT@ukr.net<br>",
-    "ua": "ТЦ Едельвейс, 3 поверх <br>Ужгород, 88000, Україна <br><br><span>Телефон:</span> +380 (68) 788-27-22<br><span>Пошта:</span> workIT@ukr.net<br>",
-    "en": "Shopping center Edelweiss, 3rd floor <br>Uzhgorod, 88000, Ukraine <br><br><span>Phone:</span> +380 (68) 788-27-22<br><span>E-Mail:</span> workIT@ukr.net<br>",
+    "ru": "Украина<br>Киев<br><br><span>Телефон:</span> +380 (95) 721-23-13<br><span>Почта:</span>Info.testteamnow@gmail.com<br>",
+    "ua": "Україна<br>Київ<br><br><span>Телефон:</span> +380 (95) 721-23-13<br><span>Пошта:</span>Info.testteamnow@gmail.com<br>",
+    "en": "Ukraine<br>Kiev<br><br><span>Phone:</span> +380 (95) 721-23-13<br><span>E-Mail:</span>Info.testteamnow@gmail.com<br>",
   },
    "lng-i02": {
     "ru": "Карта сайта",

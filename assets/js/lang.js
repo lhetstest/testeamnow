@@ -37,9 +37,9 @@ var arrNewLang = {
     "en": "Are <span>you</span> creating ...?",
   },
   "lng-a02": {
-    "ru": " мы это протестируем!",
-    "ua": "... а ми тестуємо!",
-    "en": "... then <span>We</span> will test it!",
+    "ru": "... <span>Мы</span> протестируем!",
+    "ua": "... <span>Ми</span> протестуємо!",
+    "en": "... <span>We</span> will test it!",
   },
    "lng-a03": {
     "ru": "О нас ...",
@@ -370,9 +370,9 @@ var arrNewLang = {
   },
   
    "lng-i01": {
-    "ru": "ТЦ Эдельвейс, 3 этаж <br>Ужгород, 88000, Украина <br><br><span>Телефон:</span> +380 (68) 788-27-22<br><span>Почта:</span> workIT@ukr.net<br>",
-    "ua": "ТЦ Едельвейс, 3 поверх <br>Ужгород, 88000, Україна <br><br><span>Телефон:</span> +380 (68) 788-27-22<br><span>Пошта:</span> workIT@ukr.net<br>",
-    "en": "Shopping center Edelweiss, 3rd floor <br>Uzhgorod, 88000, Ukraine <br><br><span>Phone:</span> +380 (68) 788-27-22<br><span>E-Mail:</span> workIT@ukr.net<br>",
+    "ru": "Украина<br>Киев <br><br><span>Телефон:</span> +380 (95) 721-23-13<br><span>Почта:</span>Info.testteamnow@gmail.com<br>",
+    "ua": "Україна<br>Київ<br><br><span>Телефон:</span> +380 (95) 721-23-13<br><span>Пошта:</span>Info.testteamnow@gmail.com<br>",
+    "en": "Ukraine<br>Kiev<br><br><span>Phone:</span> +380 (95) 721-23-13<br><span>E-Mail:</span>Info.testteamnow@gmail.com<br>",
   },
    "lng-i02": {
     "ru": "Карта сайта",
