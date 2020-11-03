@@ -37,9 +37,9 @@ var arrNewLang = {
     "en": "Are <span>you</span> creating ...?",
   },
   "lng-a02": {
-    "ru": "... <span>Мы</span> протестируем!",
-    "ua": "... <span>Ми</span> протестуємо!",
-    "en": "... <span>We</span> will test it!",
+    "ru": "... a <span>Мы</span> тестируем!",
+    "ua": "... a <span>Ми</span> тестуємо!",
+    "en": "... <span>We</span> will test your application!",
   },
    "lng-a03": {
     "ru": "О нас ...",
@@ -47,14 +47,14 @@ var arrNewLang = {
     "en": "About us ...",
   },
    "lng-a04": {
-    "ru": "Знаем как делать",
-    "ua": "Знаємо як робити",
-    "en": "We know how to do",
+    "ru": "Знаем что делать",
+    "ua": "Знаємо, що робити",
+    "en": "We know what should be done",
   },
    "lng-a05": {
-    "ru": "Перечитали такую кучу материала что теперь хоть вселенную тестировать",
-    "ua": "Перечитали таку купу матеріалу що тепер хоч всесвіт тестувати",
-    "en": "We re-read such a bunch of material that now at least test the universe",
+    "ru": "Опытная, квалифицированная команда и довольные отзывы клиентов",
+    "ua": "Досвідчена, кваліфікована команда і відгуки задоволених клієнтів",
+    "en": "Experienced, qualified team and satisfied customer reviews",
   },
    "lng-a06": {
     "ru": "Опыт выполнения",
@@ -62,9 +62,9 @@ var arrNewLang = {
     "en": "Execution experience",
   },
    "lng-a07": {
-    "ru": "За плечами бесценный опыт и рациональность проведения работ",
-    "ua": "За плечима безцінний досвід і раціональність проведення робіт",
-    "en": "Behind him is invaluable experience and rationality of work",
+    "ru": "За плечами бесценный опыт тестирования проектов в различных сферах",
+    "ua": "За плечима безцінний досвід тестування проектів в різних сферах",
+    "en": "Behind him is invaluable experience in testing projects in various fields",
   },
    "lng-a08": {
     "ru": "Многогранность",
@@ -72,9 +72,9 @@ var arrNewLang = {
     "en": "Versatility",
   },
    "lng-a09": {
-    "ru": "Мы как тессеракт - многогранны и разносторонни в методиках и видах тестирования",
-    "ua": "Ми як тессеракт - багатогранні і різнобічні в методиках і видах тестування",
-    "en": "We are like a tesseract - multifaceted and versatile in methods and types of testing",
+    "ru": "Мы ищем индивидуальный подход к каждому клиенту и каждому проекту",
+    "ua": "Ми шукаємо індивідуальний підхід до кожного клієнта і кожного проекту",
+    "en": "We are looking for an individual approach to each client and each project",
   },
    "lng-a10": {
     "ru": "Ничего лишнего",
@@ -82,9 +82,9 @@ var arrNewLang = {
     "en": "Nothing extra",
   },
    "lng-a11": {
-    "ru": "По результатам работы - сразу ясно что и как в делах",
-    "ua": "За результатами роботи - відразу ясно що і як в справах",
-    "en": "Based on the results of the work, it is immediately clear what and how in business",
+    "ru": "Даем точные ответы на интересующие клиентов вопросы",
+    "ua": "Даємо точні відповіді на питання, що цікавлять клієнтів питання",
+    "en": "We give accurate answers to questions of interest to customers",
   },
 
    "lng-b01": {
@@ -93,9 +93,9 @@ var arrNewLang = {
     "en": "About Us",
   },
    "lng-b02": {
-    "ru": "TestTeamGo помогает вам поставлять качественное программное обеспечение и предоставлять Вашим конечным клиентам лучший опыт. Мы добиваемся высоких результатов и следим за тем, чтобы Ваш продукт работал безупречно и улучшал жизнь Ваших клиентов.",
-    "ua": "TestTeamGo допомагає вам постачати якісне програмне забезпечення і надавати Вашим кінцевим клієнтам найкращий досвід. Ми досягаємо високих результатів і стежимо за тим, щоб Ваш продукт працював бездоганно і поліпшував життя Ваших клієнтів.",
-    "en": "TestTeamGo helps you deliver quality software and provide your end customers with the best experience. We achieve high results and make sure that your product works flawlessly and improves the lives of your customers.",
+    "ru": "TestTeamGo предоставляет полный спектр услуг по тестированию программного обеспечения. Мы добиваемся высоких результатов и помогаем Вам предоставить конечному пользователю качественный продукт.",
+    "ua": "TestTeamGo надає повний спектр послуг з тестування програмного забезпечення. Ми досягаємо високих результатів і допомагаємо Вам надати кінцевому користувачеві якісний продукт.",
+    "en": "TestTeamGo provides a full range of software testing services. We achieve high results and help you provide the end user with a quality product.",
   },
    "lng-b03": {
     "ru": "Преимущества ручного тестирования для вашего проекта",
@@ -211,9 +211,9 @@ var arrNewLang = {
   },
 
    "lng-e01": {
-    "ru": "FeedBack заказчиков",
-    "ua": "FeedBack замовників",
-    "en": "Customer FeedBack",
+    "ru": "Наши клиенты",
+    "ua": "FНаші клієнти",
+    "en": "Our clients",
   },
    "lng-e02": {
     "ru": "Что говорят о нас наши клиенты.",
@@ -293,9 +293,9 @@ var arrNewLang = {
     "en": "Team",
   },
    "lng-g02": {
-    "ru": "Тот, кто не верит что мы активная, жизнерадостная и интересная команда безумно интересных людей, может взять бутылочку хорошего коньяка, десерт и приехать с нами познакомиться.",
-    "ua": "Той, хто не вірить що ми активна, життєрадісна і цікава команда шалено цікавих людей, може взяти пляшку хорошого коньяку, десерт і приїхати з нами познайомитися.",
-    "en": "Anyone who does not believe that we are an active, cheerful and interesting team of insanely interesting people can take a bottle of good cognac, dessert and come to meet us.",
+    "ru": "TestTeamGo - это команда опытных специалистов, которая работает в области обеспечения качества приложений и сервисов. В нашей команде более 40 QA-инженеров с опытом в различных отраслях. Современные методологии управления проектами, адаптация процессов под задачи заказчика.",
+    "ua": "TestTeamGo - це команда досвідчених фахівців, яка працює в області забезпечення якості додатків і сервісів. У нашій команді більше 40 QA-інженерів з досвідом в різних галузях. Сучасні методології управління проектами, адаптація процесів під завдання замовника.",
+    "en": "TestTeamGo is a team of experienced professionals who work in the field of quality assurance for applications and services. Our team has more than 40 QA engineers with experience in various industries. Modern project management methodologies, adaptation of processes to customer tasks.",
   },
 
    "lng-h01": {
