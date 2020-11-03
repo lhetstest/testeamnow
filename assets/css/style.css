@@ -97,6 +97,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------------------------------------------------
+# general class style
+--------------------------------------------------------------*/
+.jst {
+  text-align: justify;
+}
+
+/*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
 .back-to-top {
@@ -969,7 +976,7 @@ section {
 # About Video
 --------------------------------------------------------------*/
 .about-video .content {
-  font-size: 15px;
+  font-size: 13px;
 }
 
 .about-video .content h3 {
@@ -1300,7 +1307,7 @@ section {
 --------------------------------------------------------------*/
 .services .icon-box {
   text-align: center;
-  padding: 70px 20px 80px 20px;
+  padding: 40px 20px 40px 20px;
   transition: all ease-in-out 0.3s;
   background: var(--color_1);
   box-shadow: 0px 5px 90px 0px var(--color_27);
