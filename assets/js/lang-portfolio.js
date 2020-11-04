@@ -11,8 +11,8 @@ var arrNewLang = {
     "en": "Our suggestions",
   },
   "lng-n03": {
-    "ru": "Наши работы",
-    "ua": "Наші роботи",
+    "ru": "Портфолио",
+    "ua": "Портфоліо",
     "en": "Portfolio",
   },
     "lng-n04": {
@@ -33,7 +33,7 @@ var arrNewLang = {
    "lng-i01": {
     "ru": "Украина<br>Киев<br><br><span>Телефон:</span><a href='tel:+380957212313'> +380 (95) 721-23-13</a><br><span>Почта:</span><a href='mailto:Info.testteamnow@gmail.com'> Info.testteamnow@gmail.com</a><br>",
     "ua": "Україна<br>Київ<br><br><span>Телефон:</span><a href='tel:+380957212313'> +380 (95) 721-23-13</a><br><span>Пошта:</span><a href='mailto:Info.testteamnow@gmail.com'> Info.testteamnow@gmail.com</a><br>",
-    "en": "Ukraine<br>Kiev<br><br><span>Phone:</span><a href='tel:+380957212313'> +380 (95) 721-23-13</a><br><span>E-Mail:</span><a href='mailto:Info.testteamnow@gmail.com'> Info.testteamnow@gmail.com</a><br>",
+    "en": "Ukraine<br>Kyiv<br><br><span>Phone:</span><a href='tel:+380957212313'> +380 (95) 721-23-13</a><br><span>E-Mail:</span><a href='mailto:Info.testteamnow@gmail.com'> Info.testteamnow@gmail.com</a><br>",
   },
    "lng-i02": {
     "ru": "Карта сайта",

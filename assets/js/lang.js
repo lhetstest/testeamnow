@@ -11,8 +11,8 @@ var arrNewLang = {
     "en": "Our suggestions",
   },
   "lng-n03": {
-    "ru": "Наши работы",
-    "ua": "Наші роботи",
+    "ru": "Портфолио",
+    "ua": "Портфоліо",
     "en": "Portfolio",
   },
   "lng-n04": {
@@ -245,11 +245,17 @@ var arrNewLang = {
     "ua": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>Я радий рекомендувати TestTeamNow як чудову компанію, яка пропонує послуги з тестування, з якої можна вести справи. Спасибі за професіоналізм і ставлення до роботи, оскільки ми бачимо суттєву різницю між нашими минулими релізами і нинішніми. Ви допомогли нам ще більше поліпшити наш проект Desert Skies.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
     "en": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>I`m happy to recommend TestTeamNow as a great testing company to do business with. Thank you for your professionalism and attitude to work, as we see a significant difference between our past releases and the current ones. You helped us further improve our Desert Skies project.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
   },
-
+/*
    "lng-f01": {
     "ru": "Знакомьтесь, наши работы:",
     "ua": "Знайомтеся, наші роботи:",
     "en": "Meet our works:",
+  },
+*/  
+   "lng-f01": {
+    "ru": "Портфолио",
+    "ua": "Портфоліо",
+    "en": "Portfolio",
   },
    "lng-f02": {
     "ru": "Просмотрите наше портфолио и ознакомьтесь с нашей творческой работой, а также начните планировать сотрудничество с TestTeamNow.",
@@ -377,7 +383,7 @@ var arrNewLang = {
    "lng-i01": {
     "ru": "Украина<br>Киев<br><br><span>Телефон:</span><a href='tel:+380957212313'> +380 (95) 721-23-13</a><br><span>Почта:</span><a href='mailto:Info.testteamnow@gmail.com'> Info.testteamnow@gmail.com</a><br>",
     "ua": "Україна<br>Київ<br><br><span>Телефон:</span><a href='tel:+380957212313'> +380 (95) 721-23-13</a><br><span>Пошта:</span><a href='mailto:Info.testteamnow@gmail.com'> Info.testteamnow@gmail.com</a><br>",
-    "en": "Ukraine<br>Kiev<br><br><span>Phone:</span><a href='tel:+380957212313'> +380 (95) 721-23-13</a><br><span>E-Mail:</span><a href='mailto:Info.testteamnow@gmail.com'> Info.testteamnow@gmail.com</a><br>",
+    "en": "Ukraine<br>Kyiv<br><br><span>Phone:</span><a href='tel:+380957212313'> +380 (95) 721-23-13</a><br><span>E-Mail:</span><a href='mailto:Info.testteamnow@gmail.com'> Info.testteamnow@gmail.com</a><br>",
   },
    "lng-i02": {
     "ru": "Карта сайта",
