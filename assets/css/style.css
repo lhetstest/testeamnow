@@ -1016,7 +1016,7 @@ section {
 
 .about-video .video-pic {
   background: url(../img/about-video2.jpg) top center;
-  width: 540px;
+  /*width: 540px;*/
   height: 400px;  
   background-repeat: no-repeat;
 }

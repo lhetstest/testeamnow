@@ -1,14 +1,19 @@
 /* v2 */
 var arrNewLang = {
+  "lng-n00": {
+    "ru": "TestTeamNow - Тестирование здесь и сейчас",
+    "ua": "TestTeamNow - Тестування тут і зараз",
+    "en": "TestTeamNow - Testing here and now",
+  },
   "lng-n01": {
     "ru": "О нас",
     "ua": "Про нас",
     "en": "About Us",
   },
   "lng-n02": {
-    "ru": "Наши предложения",
-    "ua": "Наші пропозиції",
-    "en": "Our suggestions",
+    "ru": "Услуги и предложения",
+    "ua": "Послуги та пропозиції",
+    "en": "Services and offers",
   },
   "lng-n03": {
     "ru": "Портфолио",
@@ -346,8 +351,8 @@ var arrNewLang = {
   },
    "lng-h08": {
     "ru": "Проекты курируются по методологии Agile/Scrumban.",
-    "ua": "Проекти курируються за методологією Agile / Scrumban.",
-    "en": "Projects are supervised according to the Agile / Scrumban methodology.",
+    "ua": "Проекти курируються за методологією Agile/Scrumban.",
+    "en": "Projects are supervised according to the Agile/Scrumban methodology.",
   },
    "lng-h09": {
     "ru": "Целевые специалисты",
