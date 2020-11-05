@@ -44,7 +44,7 @@ var arrNewLang = {
   "lng-a02": {
     "ru": "... a <span>мы</span> тестируем!",
     "ua": "... a <span>ми</span> тестуємо!",
-    "en": "... <span>цe</span> will test your application!",
+    "en": "... <span>we</span> will test your application!",
   },
    "lng-a03": {
     "ru": "О нас ...",
@@ -238,7 +238,7 @@ var arrNewLang = {
    "lng-e04": {
     "ru": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>Очень целеустремленная и организованная команда. Подключились к проекту Ucan.Space на том этапе, когда важен был взгляд со стороны. Очень скрупулёзно прошлись по ключевым сценариям и подсветили нам то, что мы игнорировали раньше. Получили очень ценный опыт взаимодействия с командой.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
     "ua": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>Дуже цілеспрямована і організована команда. Підключилися до проекту Ucan.Space на тому етапі, коли важливий був погляд з боку. Дуже скрупульозно пройшлися по ключовим сценаріями і підсвітили нам те, що ми ігнорували раніше. Отримали дуже цінний досвід взаємодії з командою.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
-    "en": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>A very dedicated and organized team. We joined the Ucan.Space project at the stage when the outside view was important. We went through the key scenarios very scrupulously and highlighted for us what we had ignored before. We got a very valuable experience of interaction with the team.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
+    "en": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>It is extremely dedicated and organized team. We joined the Ucan.Space project at the stage when the outside view was important. We went through the key scenarios very scrupulously and highlighted for us what we had ignored before. We got a very valuable experience of interaction with the team.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
   },
    "lng-e05": {
     "ru": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>Команда TestTeamNow проделала очень ёмкую и качественную работу по тестированию мобильного приложения Mary’s Recipes: протестировано всё очень детально, результаты преподнесены в удобной форме, дополнительно ценны конкретные предложения по улучшению и изменениям.<br>С командой было приятно работать, спасибо!<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
@@ -393,7 +393,7 @@ var arrNewLang = {
    "lng-i02": {
     "ru": "Карта сайта",
     "ua": "Мапа сайту",
-    "en": "Site`s map",
+    "en": "Site map",
   },
 
 };
