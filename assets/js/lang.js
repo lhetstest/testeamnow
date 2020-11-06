@@ -181,7 +181,7 @@ var arrNewLang = {
   },
    "lng-d02": {
     "ru": "Мы предоставляем информацию о качестве продукта и его готовности к релизу. Выявляем слабые стороны продукта. Помогаем расставить правильные приоритеты в разработке. Проанализировав специфику проекта, мы предоставим решение, которое наилучшим образом соответствует Вашим потребностям.",
-    "ua": "Ми надаємо інформацію про якість продукту та його готовності до релізу. Виявляємо слабкі сторони продукту. Допомагаємо розставити правильні пріоритети в розробці. Проаналізувавши специфіку проекту ми надамо рішення, яке найкращим чином відповідає Вашим потребам.",
+    "ua": "Ми надаємо інформацію про якість продукту та його готовності до релізу. Виявляємо слабкі сторони продукту. Допомагаємо розставити правильні пріоритети в розробці. Проаналізувавши специфіку проекту, ми надамо рішення, яке найкращим чином відповідає Вашим потребам.",
     "en": "We provide information on the quality of the product and its readiness for release. We identify weaknesses of the product. We help to set the right priorities in development. After analyzing the specifics of the project, we will provide a solution that best suits your needs.",
   },
    "lng-d03": {
@@ -232,7 +232,7 @@ var arrNewLang = {
   },
    "lng-e03": {
     "ru": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>TestTeamNow предоставляет подробную и хорошо написанную документацию, которая дала команде Podavach возможность заметно улучшить UI/UX тестируемых площадок, для лучшего и интуитивно понятного использования. Команда так-же проработала мобильные тесты, в строгом соответствии со спецификацией. <br>Спасибо за внимательность и качественное отношение к тестированию.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
-    "ua": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>TestTeamNow надає детальну і добре написану документацію, яка дала команді Podavach можливість помітно поліпшити UI / UX тестованих майданчиків, для кращого і інтуїтивно зрозумілого використання. Команда так-же пропрацювала мобільні тести, в суворій відповідності зі специфікацією. <br> Дякую за уважність і якісне ставлення до тестування.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
+    "ua": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>TestTeamNow надає детальну і добре написану документацію, яка дала команді Podavach можливість помітно поліпшити UI / UX тестованих майданчиків, для кращого і інтуїтивно зрозумілого використання. Команда також пропрацювала мобільні тести в суворій відповідності зі специфікацією. <br> Дякую за уважність і якісне ставлення до тестування.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
     "en": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>TestTeamNow provides detailed and well-written documentation that has given the Podavach team the opportunity to dramatically improve the UI / UX of test sites for better and more intuitive use. The team also worked on mobile tests, in strict accordance with the specification. <br> Thank you for your attentiveness and quality attitude to testing.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
   },
    "lng-e04": {
@@ -247,7 +247,7 @@ var arrNewLang = {
   },
    "lng-e06": {
     "ru": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>Я рад рекомендовать TestTeamNow как отличную компанию, предлагающую услуги по тестированию, с которой можно вести дела. Спасибо за профессионализм и отношение к работе, поскольку мы видим существенную разницу между нашими прошлыми релизами и нынешними. Вы помогли нам еще больше улучшить наш проект Desert Skies.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
-    "ua": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>Я радий рекомендувати TestTeamNow як чудову компанію, яка пропонує послуги з тестування, з якої можна вести справи. Спасибі за професіоналізм і ставлення до роботи, оскільки ми бачимо суттєву різницю між нашими минулими релізами і нинішніми. Ви допомогли нам ще більше поліпшити наш проект Desert Skies.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
+    "ua": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>Я радий рекомендувати TestTeamNow як чудову компанію, яка пропонує послуги з тестування, з якою можна вести справи. Спасибі за професіоналізм і ставлення до роботи, оскільки ми бачимо суттєву різницю між нашими минулими релізами і нинішніми. Ви допомогли нам ще більше поліпшити наш проект Desert Skies.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
     "en": '<i class="bx bxs-quote-alt-left quote-icon-left"></i>I`m happy to recommend TestTeamNow as a great testing company to do business with. Thank you for your professionalism and attitude to work, as we see a significant difference between our past releases and the current ones. You helped us further improve our Desert Skies project.<i class="bx bxs-quote-alt-right quote-icon-right"></i>',
   },
 /*
@@ -331,7 +331,7 @@ var arrNewLang = {
   },
    "lng-h04": {
     "ru": "Тестирование в течение первой недели без оплаты.",
-    "ua": "Тестування протягом першого тиждня без оплати.",
+    "ua": "Тестування протягом першого тижня без оплати.",
     "en": "Testing for the first week free of charge.",
   },
    "lng-h05": {
