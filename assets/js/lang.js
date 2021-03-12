@@ -21,10 +21,11 @@ var arrNewLang = {
     "en": "Portfolio",
   },
   "lng-n04": {
-    "ru": "Команда",
-    "ua": "Команда",
-    "en": "Team",
+    "ru": "Курсы",
+    "ua": "Курси",
+    "en": "Courses"
   },
+
   "lng-n05": {
     "ru": "Контакты",
     "ua": "Контакти",
@@ -307,12 +308,6 @@ var arrNewLang = {
       "ru": "Курсы по безопасности",
       "ua": "Курси з основ тестування безпеки",
       "en": "Security basics, educational courses"
-  },
-
-  "lng-edu002": {
-      "ru": "Курсы",
-      "ua": "Курси",
-      "en": "Courses"
   },
 
    "lng-g01": {
