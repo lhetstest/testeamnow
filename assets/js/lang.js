@@ -305,7 +305,7 @@ var arrNewLang = {
 
   "lng-edu001": {
       "ru": "Курсы по безопасности",
-      "ua": "",
+      "ua": "Курси з основ тестування безпеки",
       "en": "Security basics, educational courses"
   },
 
