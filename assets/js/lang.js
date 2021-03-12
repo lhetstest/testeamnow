@@ -303,6 +303,18 @@ var arrNewLang = {
     "en": "A game",
   },
 
+  "lng-edu001": {
+      "ru": "Курсы по безопасности",
+      "ua": "",
+      "en": "Security basics, educational courses"
+  },
+
+  "lng-edu002": {
+      "ru": "Курсы",
+      "ua": "Курси",
+      "en": "Courses"
+  },
+
    "lng-g01": {
     "ru": "Команда",
     "ua": "Команда",
