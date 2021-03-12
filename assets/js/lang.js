@@ -20,6 +20,7 @@ var arrNewLang = {
     "ua": "Портфоліо",
     "en": "Portfolio",
   },
+  
   "lng-n04": {
     "ru": "Курсы",
     "ua": "Курси",

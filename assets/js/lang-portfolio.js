@@ -21,9 +21,9 @@ var arrNewLang = {
     "en": "Portfolio",
   },
     "lng-n04": {
-    "ru": "Команда",
-    "ua": "Команда",
-    "en": "Team",
+    "ru": "Курсы",
+    "ua": "Курси",
+    "en": "Courses"
   },
   "lng-n05": {
     "ru": "Контакты",
