@@ -304,11 +304,15 @@ var arrNewLang = {
     "ua": "Гра",
     "en": "A game",
   },
-
-  "lng-edu001": {
-      "ru": "Курсы по безопасности",
-      "ua": "Курси з основ тестування безпеки",
-      "en": "Security basics, educational courses"
+   "lng-j01": {
+      "ru": "Курсы и тренинги",
+      "ua": "Курси та тренінги",
+      "en": "Courses and trainings"
+  },
+   "lng-j02": {
+      "ru": "Курс по кибербезопасности",
+      "ua": "Курс з кібербезпеки",
+      "en": "Cyber Security Course"
   },
 
    "lng-g01": {
