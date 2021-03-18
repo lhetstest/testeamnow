@@ -147,8 +147,8 @@ var arrNewLang = {
     "en": "The purpose of the course is to acquaint students with the basic principles of information security in your work and personal environment. <br> To master the material of the course will be useful basic knowledge in the field of computer networks. Their presence will allow to understand the principles of operation of attack detection systems, the principles of their selection and placement in the protected system. Most of the course questions do not require special prior knowledge and are fully covered in lectures.",
   },
    "lng-sl07": {
-    "ru": "Ч.З.В",
-    "ua": "П.З",
+    "ru": "Ча.Во",
+    "ua": "По.За",
     "en": "F.A.Q",
   },
    "lng-sl08": {
@@ -225,9 +225,9 @@ var arrNewLang = {
   },
 
    "lng-sl31": {
-    "ru": 'Стоимость, продолжительность и график обучения <i class = "bx bx-chevrons-up"> </i>',
+    "ru": 'Стоимость, продолжительность и график обучения <i class="bx bx-chevrons-up"></i>',
     "ua": 'Вартість, тривалість та графік навчання<i class="bx bx-chevrons-up"></i>',
-    "en": 'Cost, duration and schedule of training <i class = "bx bx-chevrons-up"> </i>',
+    "en": 'Cost, duration and schedule of training <i class="bx bx-chevrons-up"></i>',
   },
    "lng-sl32": {
     "ru": "<br><b>Стоимость Online:</b> 1500 грн.<br><b>Продолжительность:</b> 6 занятий по 1.5 часа.<br><b>График занятий:</b> Дважды в неделю по договоренности.<br>Индивидуальные занятия и консультации оговариваются отдельно по договоренности.",
