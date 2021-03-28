@@ -407,5 +407,10 @@ var arrNewLang = {
     "ua": "Мапа сайту",
     "en": "Site map",
   },
+   "lng-i03": {
+    "ru": "Украина<br>Киев<br><br><span>Телефон:</span><a href='tel:+380957212313'> +380 (95) 721-23-13</a><br><span>Почта:</span><a href='mailto:course.cyberukraine@gmail.com'> course.cyberukraine@gmail.com</a><br>",
+    "ua": "Україна<br>Київ<br><br><span>Телефон:</span><a href='tel:+380957212313'> +380 (95) 721-23-13</a><br><span>Пошта:</span><a href='mailto:course.cyberukraine@gmail.com'> course.cyberukraine@gmail.com</a><br>",
+    "en": "Ukraine<br>Kyiv<br><br><span>Phone:</span><a href='tel:+380957212313'> +380 (95) 721-23-13</a><br><span>E-Mail:</span><a href='mailto:course.cyberukraine@gmail.com'> course.cyberukraine@gmail.com</a><br>",
+  },
 
 };
