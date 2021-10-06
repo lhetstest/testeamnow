@@ -85,9 +85,9 @@ var arrNewLang = {
     "en": "Details of the course",
   },
    "lng-s02": {
-    "ru": "<span>Стоимость</span>: 1500 грн",
-    "ua": "<Span>Вартість</span>: 1500 грн",
-    "en": "<span>Price</span>: UAH 1500",
+    "ru": "<span>Стоимость</span>: 2000 грн",
+    "ua": "<Span>Вартість</span>: 2000 грн",
+    "en": "<span>Price</span>: UAH 2000",
   },
    "lng-s03": {
     "ru": "<span>Продолжительность</span>: 9 часов (6 занятий)",
