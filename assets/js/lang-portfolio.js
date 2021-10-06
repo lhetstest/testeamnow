@@ -235,9 +235,9 @@ var arrNewLang = {
     "en": 'Cost, duration and schedule of training <i class="bx bx-chevrons-up"></i>',
   },
    "lng-sl32": {
-    "ru": "<br><b>Стоимость Online:</b> 1500 грн.<br><b>Продолжительность:</b> 6 занятий по 1.5 часа.<br><b>График занятий:</b> Дважды в неделю по договоренности.<br>Индивидуальные занятия и консультации оговариваются отдельно по договоренности.",
-    "ua": "<br><b>Вартість Online:</b> 1500 грн.<br><b>Тривалість:</b> 6 занять по 1.5 години.<br><b>Графік занять:</b> Двічі на тиждень за домовленістю.<br>Індивідуальні заняття та консультації обумовлюються окремо за домовленістю.",
-    "en": "<br><b>Price Online:</b> 1500 hryvnias.<br><b>Duration:</b> 6 lessons of 1.5 hours.<br><b>Class schedule:</b> Twice a week by appointment.<br>Individual classes and consultations are arranged separately by agreement.",
+    "ru": "<br><b>Стоимость Online:</b> 2000 грн.<br><b>Продолжительность:</b> 6 занятий по 1.5 часа.<br><b>График занятий:</b> Дважды в неделю по договоренности.<br>Индивидуальные занятия и консультации оговариваются отдельно по договоренности.",
+    "ua": "<br><b>Вартість Online:</b> 2000 грн.<br><b>Тривалість:</b> 6 занять по 1.5 години.<br><b>Графік занять:</b> Двічі на тиждень за домовленістю.<br>Індивідуальні заняття та консультації обумовлюються окремо за домовленістю.",
+    "en": "<br><b>Price Online:</b> 2000 hryvnias.<br><b>Duration:</b> 6 lessons of 1.5 hours.<br><b>Class schedule:</b> Twice a week by appointment.<br>Individual classes and consultations are arranged separately by agreement.",
   },
    "lng-sl33": {
     "ru": 'Кибербезопасность? <i class="bx bx-chevrons-up"></i>',
