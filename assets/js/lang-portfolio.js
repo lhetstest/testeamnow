@@ -95,9 +95,9 @@ var arrNewLang = {
     "en": "<span>Duration</span>: 9 hours (6 lessons)",
   },
    "lng-s04": {
-    "ru": "<span>Старт ближайшего курса</span>: 01.04.2021",
-    "ua": "<span>Старт найближчого курсу </span>: 01.04.2021",
-    "en": "<span>Start of the next course </span>: 04/01/2021",
+    "ru": "<span>Старт ближайшего курса</span>: 11.10.2021",
+    "ua": "<span>Старт найближчого курсу </span>: 11.10.2021",
+    "en": "<span>Start of the next course </span>: 10/11/2021",
   },
    "lng-s05": {
     "ru": '<span>E-Mail подачи заявки</span>: <a href="mailto:course.cyberukraine@gmail.com"> course.cyberukraine@gmail.com</a>',
